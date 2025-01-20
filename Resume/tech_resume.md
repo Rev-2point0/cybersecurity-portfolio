@@ -9,6 +9,7 @@ Dedicated and detail-oriented technical professional seeking an entry-level cybe
 <p><strong>Help Desk Support:</strong> Password resets, user account management, email setup, basic troubleshooting of workstations and servers.</p>
 <p><strong>Hardware & Software Installation:</strong> Imaging and configuring workstations, setting up devices, and installing applications.</p>
 <p><strong>Tools & Software:</strong> Microsoft Office Suite (Word, Excel, PowerPoint), MySQL, QuickBooks, ZenDesk, POS systems, Visual Studio, XAMPP.</p>
+<p><strong>Security Tools:</strong> SIEM tools (Splunk, Chronicle), read and understand network diagrams and tcpdump logs</p>
 <p><strong>Database & Coding:</strong> Proficient in basic HTML, MySQL, CSS, PHP, and database operations.</p>
 <p><strong>Communication:</strong> Ability to explain technical concepts to non-technical users.</p>
 <p><strong>Time Management:</strong> Multitasking, meeting deadlines, and prioritizing tasks effectively under pressure.</p>
@@ -16,6 +17,7 @@ Dedicated and detail-oriented technical professional seeking an entry-level cybe
 
 <h2>Certifications</h2>
 <p>Google Foundations of Cybersecurity (2025)<br>
+Google Play It Safe: Manage Security Risks (2025)<br>
 Web Developer Certification, College of Southern Maryland (2009)<br>
 Electronics Tech Certificate, Rogue Community College (2013)</p>
 <br>
